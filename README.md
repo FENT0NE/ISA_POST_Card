@@ -1,2 +1,2 @@
 # Simple ISA POST Card
-The card tracks the entry not only to port 80H, but also to port 84H (for Compaq computers).<br>After the power supply and before the first entry into the port, the indicators are turned off.
+The card tracks entries to port 80H and port 84H. <br> After turning on the power and before the first entry into the port, the indicators do not show. <br> The right dot lights up if the RESET signal is inactive.
